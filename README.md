@@ -10,7 +10,7 @@ Ce document explique les étapes pour lancer le projet en utilisant Docker, Spar
 - Python 3 et Pip installés
 
 ## Étapes pour lancer le projet
-### Télecherger data "training_data.csv" depuis se drive : 
+### Télècharger data "training_data.csv" depuis ce drive : 
 https://drive.google.com/file/d/1WoW8fIdfvFbC8S-6NwESR9-wSFOpZDFV/view?usp=sharing
 ### 1. Lancer Docker Compose
 
