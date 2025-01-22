@@ -10,7 +10,8 @@ Ce document explique les étapes pour lancer le projet en utilisant Docker, Spar
 - Python 3 et Pip installés
 
 ## Étapes pour lancer le projet
-
+### Télecgerger data depuis se drive : 
+https://drive.google.com/file/d/1WoW8fIdfvFbC8S-6NwESR9-wSFOpZDFV/view?usp=sharing
 ### 1. Lancer Docker Compose
 
 ```bash
